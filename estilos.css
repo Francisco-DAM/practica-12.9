@@ -1,0 +1,31 @@
+caption.arriba {
+    caption-side: top;
+}
+
+table.principal {
+    border: black 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    empty-cells: hide;
+}
+
+td {
+    border: black 1px solid;
+}
+
+table.vacia {
+    border: black 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    empty-cells: hide;
+}
+
+table.secundaria {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+caption.abajo {
+    caption-side: bottom;
+}
